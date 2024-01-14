@@ -1,10 +1,10 @@
 # Robotics
 
-###Captain of Vortex Robotics
--6th year community team
--consistently qualified for regionals.
+### Captain of Vortex Robotics
+- 6th year community team
+- consistently qualified for regionals.
 
-###Projects
--Blender
--Unity
--Python
+### Projects
+- Blender
+- Unity
+- Python
