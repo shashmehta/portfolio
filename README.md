@@ -8,10 +8,10 @@ Freshman at San Mateo High School, who loves science, physics, math, and robotic
 - consistently qualified for regionals
 
 ### Projects
-- Blender animations and renders
-- Unity games
+- [Blender animations and renders](https://www.youtube.com/channel/UCPU6GLAtev9HTFHjn89MwdA)
+- [Unity games](https://shashcodes.itch.io/rocky-road)
 - Python games and projects
 
 ### Teaching
--Taught robotics to student over the summer with my robotics team
--Helped an First Lego League team to dive deeper into robotics
+- Taught robotics to student over the summer with my robotics team
+- Helped an First Lego League team to dive deeper into robotics
