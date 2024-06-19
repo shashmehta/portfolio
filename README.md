@@ -6,10 +6,12 @@ Freshman at San Mateo High School, who loves science, physics, math, robotics, c
 ### Captain of Vortex Robotics
 - 6th year community team
 - consistently qualified for regional championships.
+- [Vortex Robotics Github] (https://github.com/orgs/FTC14969Vortex/repositories)
+- [Vortex Robotics Website] (https://vortexrobotics.org/)
 
 ### Projects
-- [Blender animations and renders](https://www.youtube.com/channel/UCPU6GLAtev9HTFHjn89MwdA)
-- [Unity games](https://shashcodes.itch.io/rocky-road)
+- [Blender animations and renders - 7th Grade to Present](https://www.youtube.com/channel/UCPU6GLAtev9HTFHjn89MwdA)
+- [Unity games - 5th Grade](https://shashcodes.itch.io/rocky-road)
 - Python games and projects
 
 ### Cooking
