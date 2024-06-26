@@ -1,4 +1,3 @@
-# Shashvat Mehta
 ![Image](images/headshot.jpeg)
 
 ## Who Am I
@@ -18,14 +17,15 @@ Freshman at San Mateo High School, who loves science, physics, math, robotics, c
 
 ![Basketball](https://github.com/shashmehta/portfolio/assets/68447474/15894809-bebe-40f7-9418-059da1edf0b0)
 
-![Screenshot 2024-06-25 at 9 39 52 PM](https://github.com/shashmehta/portfolio/assets/68447474/4838cc77-e2b7-4dd4-b638-840b8636d4b7)
+![martian](https://github.com/shashmehta/portfolio/assets/68447474/4838cc77-e2b7-4dd4-b638-840b8636d4b7)
 
-![Screenshot 2024-06-25 at 9 40 08 PM](https://github.com/shashmehta/portfolio/assets/68447474/7f51552d-ea48-4526-ace8-a349140b7517)
+![Screenshot 2024-06-25 at 9 50 50 PM](https://github.com/shashmehta/portfolio/assets/68447474/02234eb1-0fed-4e80-a905-257a080a806b)
+
 
 #### RecOrder Animation
 -My animation shows a unique label-free imaging technology developed by my dad’s research team at CZ Biohub to image living cells. This is my summer project! 
 
-[Animation](https://github.com/shashmehta/portfolio/assets/68447474/ee19e1c6-0b38-40d2-a35c-ed3b1b1028f0)
+### [Animation](https://github.com/shashmehta/portfolio/assets/68447474/ee19e1c6-0b38-40d2-a35c-ed3b1b1028f0)
 
 #### Unity games
 -[Itch.io](https://shashcodes.itch.io/rocky-road)
@@ -51,5 +51,3 @@ Freshman at San Mateo High School, who loves science, physics, math, robotics, c
 ![20230903_190038](https://github.com/shashmehta/portfolio/assets/68447474/cbf15e36-057a-4bd8-a814-62165fdcca85)
 
 ![20230905_192437](https://github.com/shashmehta/portfolio/assets/68447474/cceb8468-a00b-43e4-bf5f-ef9017db90c2)
-
-![20240601_171602](https://github.com/shashmehta/portfolio/assets/68447474/ee068044-33a9-4f4e-b506-0595ba850e7d)
