@@ -13,20 +13,27 @@ Freshman at San Mateo High School, who loves science, physics, math, robotics, c
 ## Projects
 
 #### Blender animations and renders
+
 -[Youtube](https://www.youtube.com/channel/UCPU6GLAtev9HTFHjn89MwdA)
--7th grade to present
+
+![Basketball](https://github.com/shashmehta/portfolio/assets/68447474/15894809-bebe-40f7-9418-059da1edf0b0)
+
+![Screenshot 2024-06-25 at 9 39 52 PM](https://github.com/shashmehta/portfolio/assets/68447474/4838cc77-e2b7-4dd4-b638-840b8636d4b7)
+
+![Screenshot 2024-06-25 at 9 40 08 PM](https://github.com/shashmehta/portfolio/assets/68447474/7f51552d-ea48-4526-ace8-a349140b7517)
 
 #### RecOrder Animation
 -My animation shows a unique label-free imaging technology developed by my dad’s research team at CZ Biohub to image living cells. This is my summer project! 
 
-https://github.com/shashmehta/portfolio/assets/68447474/ee19e1c6-0b38-40d2-a35c-ed3b1b1028f0
+[Animation](https://github.com/shashmehta/portfolio/assets/68447474/ee19e1c6-0b38-40d2-a35c-ed3b1b1028f0)
 
 #### Unity games
 -[Itch.io](https://shashcodes.itch.io/rocky-road)
+
 -Made during 5th grade
 
 #### Python games and projects
-- No links, but were made during 6th and 7th grade.
+- No links, but they were made during 6th and 7th grade.
 - Made some basic simulations and games
 - I still can work with Python, and use it for robotics projects with my team
 
@@ -45,8 +52,4 @@ https://github.com/shashmehta/portfolio/assets/68447474/ee19e1c6-0b38-40d2-a35c-
 
 ![20230905_192437](https://github.com/shashmehta/portfolio/assets/68447474/cceb8468-a00b-43e4-bf5f-ef9017db90c2)
 
-![20231010_195452](https://github.com/shashmehta/portfolio/assets/68447474/610a815a-8ee5-4b19-8901-a8f136e1bba3)
-
 ![20240601_171602](https://github.com/shashmehta/portfolio/assets/68447474/ee068044-33a9-4f4e-b506-0595ba850e7d)
-
-![20240615_151309](https://github.com/shashmehta/portfolio/assets/68447474/a0e23ef6-c31f-4dec-89dd-487812721094)
