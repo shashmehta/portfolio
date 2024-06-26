@@ -11,18 +11,18 @@ Freshman at San Mateo High School, who loves science, physics, math, robotics, c
 
 ## Projects
 
-##### [Blender animations and renders](https://www.youtube.com/channel/UCPU6GLAtev9HTFHjn89MwdA)
+#### [Blender animations and renders](https://www.youtube.com/channel/UCPU6GLAtev9HTFHjn89MwdA)
 -7th grade to present
 
-##### RecOrder Animation
+#### RecOrder Animation
 -My animation shows a unique label-free imaging technology developed by my dad’s research team at CZ Biohub to image living cells. This is my summer project! 
 
-![Animation](https://github.com/shashmehta/portfolio/assets/68447474/ee19e1c6-0b38-40d2-a35c-ed3b1b1028f0)
+[Animation](https://github.com/shashmehta/portfolio/assets/68447474/ee19e1c6-0b38-40d2-a35c-ed3b1b1028f0)
 
-##### [Unity games](https://shashcodes.itch.io/rocky-road)
+#### [Unity games](https://shashcodes.itch.io/rocky-road)
 -Made during 5th grade
 
-##### Python games and projects
+#### Python games and projects
 - No links, but were made during 6th and 7th grade.
 - Made some basic simulations and games
 - I still can work with Python, and use it for robotics projects with my team
