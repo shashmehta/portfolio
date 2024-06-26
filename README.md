@@ -1,18 +1,20 @@
 # Shashvat Mehta
 
-### Who Am I
+## Who Am I
 Freshman at San Mateo High School, who loves science, physics, math, robotics, cooking, and learning new things.
 
-### Captain of Vortex Robotics
+## Captain of Vortex Robotics
 - 6th year community team
 - consistently qualified for regional championships.
-- [Vortex Robotics Github] (https://github.com/orgs/FTC14969Vortex/repositories)
-- [Vortex Robotics Website] (https://vortexrobotics.org/)
+- [Vortex Robotics Github](https://github.com/orgs/FTC14969Vortex/repositories)
+- [Vortex Robotics Website](https://vortexrobotics.org/)
 
-### Projects
-- [Blender animations and renders - 7th Grade to Present](https://www.youtube.com/channel/UCPU6GLAtev9HTFHjn89MwdA)
+## Projects
 
-#### RecOrder Animation
+##### [Blender animations and renders](https://www.youtube.com/channel/UCPU6GLAtev9HTFHjn89MwdA)
+-7th grade to present
+
+##### RecOrder Animation
 -My animation shows a unique label-free imaging technology developed by my dad’s research team at CZ Biohub to image living cells. This is my summer project! 
 
 
@@ -23,13 +25,13 @@ https://github.com/shashmehta/portfolio/assets/68447474/ee19e1c6-0b38-40d2-a35c-
 - Python games and projects
 
 
-### Cooking
+## Cooking
 - Learned cooking from my mom and online.
 - I enjoy making new things and experimenting
-- I really enjoy making drinks such as smoothies, shakes, and iced coffees.
+- I enjoy making drinks such as smoothies, shakes, and iced coffees.
   
-#### Cooking Showcase
-![20230903_190038](https://github.com/shashmehta/portfolio/assets/68447474/cbf15e36-057a-4bd8-a814-62165fdcca85)
+### Cooking Showcase
+![20230903_190038](https://github.com/shashmehta/portfolio/assets/68447474/cbf15e36-057a-4bd8-a814-62165fdcca85 | width = 100)
 
 ![20230905_192437](https://github.com/shashmehta/portfolio/assets/68447474/cceb8468-a00b-43e4-bf5f-ef9017db90c2)
 
