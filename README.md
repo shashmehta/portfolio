@@ -1,4 +1,5 @@
 # Shashvat Mehta
+![Image](images/headshot.jpeg)
 
 ## Who Am I
 Freshman at San Mateo High School, who loves science, physics, math, robotics, cooking, and learning new things.
@@ -11,15 +12,17 @@ Freshman at San Mateo High School, who loves science, physics, math, robotics, c
 
 ## Projects
 
-#### [Blender animations and renders](https://www.youtube.com/channel/UCPU6GLAtev9HTFHjn89MwdA)
+#### Blender animations and renders
+-[Youtube](https://www.youtube.com/channel/UCPU6GLAtev9HTFHjn89MwdA)
 -7th grade to present
 
 #### RecOrder Animation
 -My animation shows a unique label-free imaging technology developed by my dad’s research team at CZ Biohub to image living cells. This is my summer project! 
 
-[Animation](https://github.com/shashmehta/portfolio/assets/68447474/ee19e1c6-0b38-40d2-a35c-ed3b1b1028f0)
+https://github.com/shashmehta/portfolio/assets/68447474/ee19e1c6-0b38-40d2-a35c-ed3b1b1028f0
 
-#### [Unity games](https://shashcodes.itch.io/rocky-road)
+#### Unity games
+-[Itch.io](https://shashcodes.itch.io/rocky-road)
 -Made during 5th grade
 
 #### Python games and projects
@@ -27,6 +30,10 @@ Freshman at San Mateo High School, who loves science, physics, math, robotics, c
 - Made some basic simulations and games
 - I still can work with Python, and use it for robotics projects with my team
 
+### Teaching
+- Taught robotics to students over the summer with my robotics team
+- Helped a First Lego League team to dive deeper into robotics
+  
 ## Cooking
 - Learned cooking from my mom and online.
 - I enjoy making new things and experimenting
@@ -43,8 +50,3 @@ Freshman at San Mateo High School, who loves science, physics, math, robotics, c
 ![20240601_171602](https://github.com/shashmehta/portfolio/assets/68447474/ee068044-33a9-4f4e-b506-0595ba850e7d)
 
 ![20240615_151309](https://github.com/shashmehta/portfolio/assets/68447474/a0e23ef6-c31f-4dec-89dd-487812721094)
-
-  
-### Teaching
-- Taught robotics to students over the summer with my robotics team
-- Helped a First Lego League team to dive deeper into robotics
