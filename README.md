@@ -17,7 +17,7 @@ Freshman at San Mateo High School, who loves science, physics, math, robotics, c
 ##### RecOrder Animation
 -My animation shows a unique label-free imaging technology developed by my dad’s research team at CZ Biohub to image living cells. This is my summer project! 
 
-![](https://github.com/shashmehta/portfolio/assets/68447474/ee19e1c6-0b38-40d2-a35c-ed3b1b1028f0)
+![Animation](https://github.com/shashmehta/portfolio/assets/68447474/ee19e1c6-0b38-40d2-a35c-ed3b1b1028f0)
 
 ##### [Unity games](https://shashcodes.itch.io/rocky-road)
 -Made during 5th grade
